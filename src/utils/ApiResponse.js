@@ -6,3 +6,5 @@ class ApiResponse {
         this.success = stautsCode < 400
     }
 }
+
+export { ApiResponse }
